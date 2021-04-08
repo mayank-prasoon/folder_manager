@@ -8,5 +8,5 @@ things it can do
 - create a database to store all the location of the folder `document\Creative Manager`
 - launch software that are needed for work krita, gimp, inkscape etc
 - launch the godot documentation page
-- player random music on the browser
+- play random music on the browser
 - has a tomato clock (_broken_)
